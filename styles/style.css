@@ -1,10 +1,15 @@
+html {
+    background-color: grey;
+    /*font-size: 10px;*/
+    font-family: "Open Sans", sans-serif;
+}
+
 h3.redtext {
     color: red;
 }
  
 h2#blue1 {
     color: blue;
-    background-color: black;
 }
 
 h3#green1 {
@@ -21,9 +26,6 @@ strong {
 
 h1 {
     color: teal;
-    background-color: grey;
+    background-color: black;
 }
 
-html {
-    background-color: rgba(117, 117, 117, 0.527);
-}
