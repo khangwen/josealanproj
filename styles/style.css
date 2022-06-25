@@ -1,4 +1,24 @@
+h3.redtext {
+    color: red;
+}
+ 
+h3#green1 {
+    color: green;
+}
+
+h2#blue1 {
+    color: blue;
+}
+
 p {
     color: red;
-  }
-  
+}
+
+strong {
+    color: brown;
+}
+
+h1 {
+    color: teal;
+    background-color: grey;
+}
