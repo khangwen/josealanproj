@@ -4,21 +4,29 @@ html {
     font-family: "Open Sans", sans-serif;
 }
 
-h3.redtext {
+h3.comments {
     color: red;
+    text-align: center;
 }
  
-h2#blue1 {
+h2#mainpostname {
     color: blue;
+    text-align: center;
 }
 
-h3#green1 {
+h3#postcontents {
     color: green;
+    text-align: center;
 }
 
 p {
     color: red;
+    text-align: center;
 }
+
+/*li {
+    text-align: center;
+}*/
 
 strong {
     color: brown;
