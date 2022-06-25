@@ -2,12 +2,13 @@ h3.redtext {
     color: red;
 }
  
-h3#green1 {
-    color: green;
-}
-
 h2#blue1 {
     color: blue;
+    background-color: black;
+}
+
+h3#green1 {
+    color: green;
 }
 
 p {
