@@ -14,26 +14,42 @@ h2#mainpostname {
     text-align: center;
 }
 
+h2#creation {
+    color: purple;
+    text-align: center;
+    border: 3px solid black;
+}
+
 h3#postcontents {
     color: green;
     text-align: center;
+    border: 3px solid black;
 }
 
-p {
+p, li {
     color: red;
     text-align: center;
+    font-size: 12px;
+    line-height: 2;
+    letter-spacing: 5px;
 }
-
-/*li {
-    text-align: center;
-}*/
 
 strong {
     color: brown;
+    border: 3px solid black;
 }
 
 h1 {
     color: teal;
     background-color: black;
+    width: 207px;
+    border: 3px solid black;
 }
 
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
